@@ -71,29 +71,6 @@ OUTPUT LAYER     →  🎯 AI ENGINEER
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%">
 
-<div align="center">
-
-## 📊 The Stats Don't Lie
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyasequeira&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00F0FF&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasequeira&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyasequeira&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39FF14&fire=00F0FF&currStreakLabel=39FF14" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyasequeira&theme=react-dark&hide_border=true&bg_color=0d1117&color=39FF14&line=00F0FF&point=ffffff" width="100%"/>
-
-</div>
-
-<details>
-<summary><b>🏆 Click to reveal Trophy Cabinet</b></summary>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=riyasequeira&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</div>
-</details>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%">
-
 ## 🐍 Contribution Snake
 
 <div align="center">
